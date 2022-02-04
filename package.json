@@ -1,0 +1,15 @@
+{
+  "name": "api-logger-main",
+  "version": "1.0.0",
+  "description": "A simple javascript decorator for logging api request, response and error state",
+  "main": "main.js",
+  "directories": {
+    "example": "example"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
